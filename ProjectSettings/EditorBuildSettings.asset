@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 9007b67d4ffbf0a449258402966bc030
+  - enabled: 1
+    path: Assets/Scenes/Slide1_Evaporation.unity
+    guid: 42fcf743694e07343a0eb3b6fbe29e66
+  - enabled: 1
+    path: Assets/Scenes/Slide2_Condensation.unity
+    guid: 70d7d0df80fdcb54897a3d9cd5acd29d
+  - enabled: 1
+    path: Assets/Scenes/Slide3_Precipitation.unity
+    guid: d03a308682e3e624ab42feb4b2f0f7e9
+  - enabled: 1
+    path: Assets/Scenes/Slide4_Collection.unity
+    guid: 43e46d1855e10b44f994ea1d9f852176
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 65abe1aef3b16274f8b72c965250bdbe
+  m_configObjects: {}
